@@ -6,9 +6,9 @@
  * Licensed under the MIT License (https://opensource.org/licenses/MIT)
  */
 
-namespace Fatkulnurk\Cookie;
+namespace Fatkulnurk\Cookies;
 
-use Fatkulnurk\Cookie\Exceptions\KeyDoesNotExistException;
+use Fatkulnurk\Cookies\Exceptions\KeyDoesNotExistException;
 
 /**
  * Modern cookie management for PHP

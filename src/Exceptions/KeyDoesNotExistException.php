@@ -1,6 +1,6 @@
 <?php
 
-namespace Fatkulnurk\Cookie\Exceptions;
+namespace Fatkulnurk\Cookies\Exceptions;
 
 use Exception;
 
