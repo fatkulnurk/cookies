@@ -1,0 +1,21 @@
+{
+  "name": "fatkulnurk/session",
+  "description": "PHP library for handling sessions",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Fatkul Nur Koirudin",
+      "email": "fatkulnur@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Fatkulnurk\\Session\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.2",
+    "ext-json": "*"
+  }
+}
